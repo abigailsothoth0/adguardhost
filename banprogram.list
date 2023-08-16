@@ -11,3 +11,7 @@
 127.0.0.1    data.ie.sogou.com
 127.0.0.1    vinci.ie.sogou.com
 127.0.0.1    config.push.sogou.com
+
+#海信电视
+||hismarttv.com^
+||wasu.tv^
